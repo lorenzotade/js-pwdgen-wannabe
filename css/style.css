@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 500px;
+  width: 80%;
+  margin: 60px auto;
+  padding: 60px;
+  text-align: center;
+  background-color: #CECECE;
+  border-radius: 20px;
+}
+
+.container h1 {
+  margin-bottom: 30px;
+  color: #FF0000;
+}
+.container h2 {
+  margin-bottom: 20px;
+}
